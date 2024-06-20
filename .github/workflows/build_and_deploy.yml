@@ -14,7 +14,7 @@ env:
   DEPLOYMENT_NAME: website # deployment name
   REPOSITORY: docker #registry repo
   IMAGE: website # image name
-  NAMESPACE: model # deployment namespace
+  NAMESPACE: munro # deployment namespace
 
 jobs:
   setup-build-publish-deploy:
