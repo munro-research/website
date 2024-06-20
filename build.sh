@@ -1,0 +1,1 @@
+docker build --tag europe-west2-docker.pkg.dev/munro-research/docker/website:latest . && docker push europe-west2-docker.pkg.dev/munro-research/docker/website:latest
